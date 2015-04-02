@@ -1,0 +1,38 @@
+#kendo-ui-mobile-app{
+    font-size:20px;
+    font-family:"Helvetica";
+
+}
+
+#kendo-ui-mobile-app .button-block,
+#kendo-ui-mobile-app .block {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+#kendo-ui-mobile-app .button-red {
+    background-color: red;
+    color: white;
+    border-radius:5px;
+}
+
+#kendo-ui-mobile-app .button-green {
+    background-color: green;
+    color: white;
+    border-radius:5px;
+}
+
+#kendo-ui-mobile-app .button-group {
+    width: 100%;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1em;
+}
+
+#kendo-ui-mobile-app .button-block {
+    display: table-cell;
+}
+
+
